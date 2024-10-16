@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+th {
+  padding: 15px;
+  background-color: green;
+  color: #333;
+  font-weight: bold;
+  padding: 10px;
+  text-align: left;
+}
+tr {
+  padding: 15px;
+  border: 1px solid #ccc;
+}
+td {
+  padding: 15px;
+  border: 1px solid #ccc;
+}
